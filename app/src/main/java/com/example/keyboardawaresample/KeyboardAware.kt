@@ -1,4 +1,4 @@
-package com.example.keyboardawaresample.ui.theme
+package com.example.keyboardawaresample
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.imePadding
